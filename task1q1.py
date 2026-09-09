@@ -13,3 +13,5 @@ for s in strings:
                     count[ch]=1
 print(count)
 print("change for git")
+print("change for git 2")
+print("change for git 3")
